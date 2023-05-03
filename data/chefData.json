@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://example.com/chef1.jpg",
+    "chef_name": "Julia Child",
+    "short_bio": "Julia Child was an American chef, author, and television personality. She is known for bringing French cuisine to the American public with her cookbook, Mastering the Art of French Cooking, and her television show, The French Chef. Child was also a pioneer in food television, and helped to establish the genre as a popular form of entertainment.",
+    "years_of_experience": 30,
+    "num_recipes": 150,
+    "likes": 10000
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://example.com/chef2.jpg",
+    "chef_name": "Gordon Ramsay",
+    "short_bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He is known for his fiery personality and his high standards in the kitchen. Ramsay has been awarded a total of 16 Michelin stars throughout his career, making him one of the most successful chefs in the world.",
+    "years_of_experience": 35,
+    "num_recipes": 200,
+    "likes": 15000
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://example.com/chef3.jpg",
+    "chef_name": "Ina Garten",
+    "short_bio": "Ina Garten is an American chef, author, and television personality. She is known for her approachable recipes and her popular television show, Barefoot Contessa. Garten has authored several cookbooks and has won numerous awards for her work in the culinary field.",
+    "years_of_experience": 25,
+    "num_recipes": 100,
+    "likes": 12000
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://example.com/chef4.jpg",
+    "chef_name": "Bobby Flay",
+    "short_bio": "Bobby Flay is an American chef, restaurateur, and television personality. He is known for his bold flavors and his innovative approach to cooking. Flay has authored several cookbooks and has appeared on numerous television shows, including Iron Chef America and Beat Bobby Flay.",
+    "years_of_experience": 30,
+    "num_recipes": 175,
+    "likes": 13000
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://example.com/chef5.jpg",
+    "chef_name": "Emeril Lagasse",
+    "short_bio": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is known for his Creole and Cajun cuisine, and for his catchphrase, \"Bam!\" Lagasse has authored several cookbooks and has appeared on numerous television shows, including Emeril Live and Top Chef.",
+    "years_of_experience": 35,
+    "num_recipes": 150,
+    "likes": 11000
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://example.com/chef6.jpg",
+    "chef_name": "Alice Waters",
+    "short_bio": "Alice Waters is an American chef, restaurateur, and food activist. She is known for her emphasis on locally sourced and organic ingredients, and for her founding of the restaurant Chez Panisse in Berkeley, California. Waters has been a champion of sustainable food systems and has won numerous awards for her work in the culinary field.",
+    "years_of_experience": 45,
+    "num_recipes": 75,
+    "likes": 9000
+  }
+]
