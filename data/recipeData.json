@@ -1,0 +1,273 @@
+[
+  {
+    "_id": "1",
+    "photo_url": "https://i.postimg.cc/W4s47XRN/Burger-31-LGH-a296a356-020c-4969-86e8-d8c26139f83f-0-1400x919.jpg",
+    "recipe_name": "Beef Burger",
+    "chef_id": "1",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "4 slices American cheese",
+      "4 hamburger buns"
+    ],
+    "cooking_method": "To make a beef burger, first preheat a grill to medium-high heat. In a mixing bowl, combine the ground beef, salt, and pepper, and form the mixture into four equal-sized patties. Place the patties on the grill and cook for 4-5 minutes per side, or until they reach your desired level of doneness. During the last minute of cooking, place a slice of American cheese on top of each patty. Toast the hamburger buns on the grill for 1-2 minutes. Assemble the burgers by placing each patty on a bun and adding your desired toppings. Enjoy!",
+    "rating": 4.5
+  },
+  {
+    "_id": "2",
+    "photo_url": "https://i.postimg.cc/RhwFR800/Chicken-Alfredo-above.jpg",
+    "recipe_name": "Chicken Alfredo",
+    "chef_id": "1",
+    "ingredients": [
+      "8 ounces fettuccine pasta",
+      "1 tablespoon olive oil",
+      "4 boneless, skinless chicken breasts",
+      "2 cloves garlic, minced",
+      "2 cups heavy cream"
+    ],
+    "cooking_method": "To make chicken alfredo, first cook the fettuccine pasta according to the package directions. While the pasta is cooking, heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook for 5-6 minutes per side, or until cooked through. Remove the chicken from the skillet and set it aside. In the same skillet, add the minced garlic and cook for 1-2 minutes, or until fragrant. Add the heavy cream to the skillet and bring it to a simmer. Reduce the heat to low and let the sauce cook for 5-7 minutes, or until it thickens slightly. Slice the chicken breasts into strips. Drain the pasta and add it to the skillet with the sauce. Toss the pasta to coat it in the sauce. Serve the pasta topped with the sliced chicken. Enjoy!",
+    "rating": 4.8
+  },
+  {
+    "_id": "3",
+    "photo_url": "https://i.postimg.cc/Kj5b4yzt/burger-0-Fill-Wz-Ex-Nz-As-NTgz-XQ.jpg",
+    "recipe_name": "Cheeseburger",
+    "chef_id": "1",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "4 slices cheddar cheese",
+      "4 hamburger buns"
+    ],
+    "cooking_method": "To make a cheeseburger, first preheat a grill to medium-high heat. In a mixing bowl, combine the ground beef, salt, and pepper, and form the mixture into four equal-sized patties. Place the patties on the grill and cook for 4-5 minutes per side, or until they reach your desired level of doneness. During the last minute of cooking, place a slice of cheddar cheese on top of each patty. Toast the hamburger buns on the grill for 1-2 minutes. Assemble the burgers by placing each patty on a bun and adding your desired toppings. Enjoy!",
+    "rating": 4.3
+  },
+  {
+    "_id": "4",
+    "photo_url": "https://i.postimg.cc/FKS27QC1/mac-and-cheese-featured.jpg",
+    "recipe_name": "Baked Mac and Cheese",
+    "chef_id": "2",
+    "ingredients": [
+      "8 ounces elbow macaroni",
+      "3 tablespoons unsalted butter",
+      "3 tablespoons all-purpose flour",
+      "2 cups whole milk",
+      "2 cups shredded cheddar cheese"
+    ],
+    "cooking_method": "To make baked mac and cheese, first cook the elbow macaroni according to the package directions. While the macaroni is cooking, preheat the oven to 350 degrees F (175 degrees C). In a saucepan over medium heat, melt the butter. Whisk in the flour and cook for 1-2 minutes, or until the mixture turns a light brown color. Gradually whisk in the milk, stirring constantly, until the mixture thickens. Add the shredded cheddar cheese and stir until it is fully melted and incorporated. Drain the macaroni and mix it with the cheese sauce. Pour the mixture into a 9x13 inch baking dish and bake for 20-25 minutes, or until the top is golden brown and the sauce is bubbly. Serve hot and enjoy!",
+    "rating": 4.6
+  },
+  {
+    "_id": "5",
+    "photo_url": "https://i.postimg.cc/4dZFyHhF/chicken-fried-rice-horizontal-1545488885.png",
+    "recipe_name": "Chicken Fried Rice",
+    "chef_id": "2",
+    "ingredients": [
+      "2 tablespoons vegetable oil",
+      "2 boneless, skinless chicken breasts, diced",
+      "3 cups cooked white rice",
+      "1/2 cup frozen peas",
+      "1/2 cup diced carrots"
+    ],
+    "cooking_method": "To make chicken fried rice, first heat the vegetable oil in a large skillet over medium-high heat. Add the diced chicken and cook for 5-6 minutes, or until cooked through. Remove the chicken from the skillet and set it aside. Add the cooked white rice, frozen peas, and diced carrots to the skillet. Stir to combine and cook for 2-3 minutes, or until the vegetables are tender and the rice is heated through. Add the cooked chicken to the skillet and stir to combine. Serve hot and enjoy!",
+    "rating": 4.2
+  },
+  {
+    "_id": "6",
+    "photo_url": "https://i.postimg.cc/3xmBGJ7M/5c98f531-6b8c-494a-9171-5c7743ca3ca3.jpg",
+    "recipe_name": "Biscuits and Gravy",
+    "chef_id": "2",
+    "ingredients": [
+      "1 pound breakfast sausage",
+      "1/4 cup all-purpose flour",
+      "2 cups whole milk",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon black pepper"
+    ],
+    "cooking_method": "To make biscuits and gravy, first cook the breakfast sausage in a large skillet over medium heat, breaking it up into small pieces as it cooks. Once the sausage is fully cooked, sprinkle the flour over it and stir to combine. Cook for 1-2 minutes, or until the flour has been absorbed. Gradually whisk in the whole milk, stirring constantly, until the mixture thickens. Add the salt and pepper and stir to combine. Serve the gravy over hot biscuits and enjoy!",
+    "rating": 4.4
+  },
+  {
+    "_id": "7",
+    "photo_url": "https://i.postimg.cc/FH5bh5ST/square-1506010321-chicken-noodle-soup-delish-1.jpg",
+    "recipe_name": "Chicken Noodle Soup",
+    "chef_id": "3",
+    "ingredients": [
+      "8 cups chicken broth",
+      "2 boneless, skinless chicken breasts",
+      "2 cups egg noodles",
+      "1 cup sliced carrots",
+      "1 cup sliced celery"
+    ],
+    "cooking_method": "To make chicken noodle soup, first bring the chicken broth to a boil in a large pot over medium-high heat. Add the chicken breasts and cook for 15-20 minutes, or until fully cooked. Remove the chicken from the pot and shred it with a fork. Return the shredded chicken to the pot and add the egg noodles, sliced carrots, and sliced celery. Cook for 8-10 minutes, or until the noodles and vegetables are tender. Serve hot and enjoy!",
+    "rating": 4.8
+  },
+  {
+    "_id": "8",
+    "photo_url": "https://i.postimg.cc/cLSDX8F1/Chili-Con-Carne-f2.jpg",
+    "recipe_name": "Chili Con Carne",
+    "chef_id": "3",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 cans diced tomatoes",
+      "2 cans kidney beans"
+    ],
+    "cooking_method": "To make chili con carne, first brown the ground beef in a large pot over medium-high heat. Add the chopped onion and minced garlic and cook for 3-4 minutes, or until the onion is translucent. Drain off any excess grease. Add the diced tomatoes and kidney beans (with their liquid) to the pot. Stir to combine and bring the mixture to a boil. Reduce the heat to low and let the chili simmer for 30-40 minutes, stirring occasionally. Serve hot and enjoy!",
+    "rating": 4.5
+  },
+
+  {
+    "_id": "9",
+    "photo_url": "https://i.postimg.cc/jqnZTh9d/Crispy-Fried-Chicken-EXPS-TOHJJ22-6445-DR-02-03-11b.jpg",
+    "recipe_name": "Fried Chicken",
+    "chef_id": "3",
+    "ingredients": [
+      "4 chicken thighs",
+      "1 cup all-purpose flour",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 teaspoon paprika"
+    ],
+    "cooking_method": "To make fried chicken, first preheat a large skillet with enough oil to fully submerge the chicken over medium-high heat. Combine the flour, salt, black pepper, and paprika in a shallow dish. Dredge each chicken thigh in the flour mixture, making sure to coat it evenly. Place the chicken thighs in the hot oil and cook for 10-12 minutes, or until the chicken is fully cooked and the crust is golden brown. Remove the chicken from the skillet and let it drain on a paper towel-lined plate. Serve hot and enjoy!",
+    "rating": 4.7
+  },
+  {
+    "_id": "10",
+    "photo_url": "https://i.postimg.cc/nzyKr65V/Corn-bread-1-SQ.jpg",
+    "recipe_name": "Cornbread",
+    "chef_id": "4",
+    "ingredients": [
+      "1 cup cornmeal",
+      "1 cup all-purpose flour",
+      "1/4 cup granulated sugar",
+      "1 tablespoon baking powder",
+      "1/2 teaspoon salt"
+    ],
+    "cooking_method": "To make cornbread, first preheat the oven to 400 degrees F (200 degrees C). Grease an 8x8 inch baking dish with cooking spray. In a large mixing bowl, combine the cornmeal, all-purpose flour, sugar, baking powder, and salt. In a separate bowl, whisk together the egg, milk, and melted butter. Add the wet ingredients to the dry ingredients and stir until just combined. Pour the batter into the prepared baking dish and bake for 20-25 minutes, or until a toothpick inserted into the center of the cornbread comes out clean. Serve warm with butter and enjoy!",
+    "rating": 4.4
+  },
+  {
+    "_id": "11",
+    "photo_url": "https://i.postimg.cc/Xvhd1RnK/Pressure-Cooker-Clam-Chowder-EXPS-SSMZ21-246255-E10-15-4b.jpg",
+    "recipe_name": "Clam Chowder",
+    "chef_id": "4",
+    "ingredients": [
+      "2 tablespoons butter",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 cups diced potatoes",
+      "2 cans clams, drained"
+    ],
+    "cooking_method": "To make clam chowder, first melt the butter in a large pot over medium heat. Add the chopped onion and minced garlic and cook for 3-4 minutes, or until the onion is translucent. Add the diced potatoes to the pot and cook for 5-7 minutes, or until the potatoes are slightly tender. Drain the clams and add them to the pot, along with 2 cups of water. Bring the mixture to a boil and then reduce the heat to low. Let the chowder simmer for 15-20 minutes, or until the potatoes are fully cooked. Serve hot and enjoy!",
+    "rating": 4.2
+  },
+  {
+    "_id": "12",
+    "photo_url": "https://i.postimg.cc/FHHSrrRg/238691-Simple-Macaroni-And-Cheese-mfs-008-7a50b284b67140919a0984093cb4611b.jpg",
+    "recipe_name": "Macaroni and Cheese",
+    "chef_id": "4",
+    "ingredients": [
+      "1 pound elbow macaroni",
+      "4 tablespoons butter",
+      "1/4 cup all-purpose flour",
+      "2 cups milk",
+      "2 cups shredded cheddar cheese"
+    ],
+    "cooking_method": "To make macaroni and cheese, first cook the macaroni according to package instructions. Drain and set aside. In a separate pot, melt the butter over medium heat. Whisk in the flour to create a roux. Slowly pour in the milk while whisking constantly. Cook for 5-7 minutes, or until the sauce has thickened. Add the shredded cheddar cheese to the pot and stir until fully melted. Combine the cooked macaroni with the cheese sauce and stir until evenly coated. Serve hot and enjoy!",
+    "rating": 4.6
+  },
+  {
+    "_id": "13",
+    "photo_url": "https://i.postimg.cc/hjWhdcSY/meatloaf-index-641b99c7b88ae.jpg",
+    "recipe_name": "Meatloaf",
+    "chef_id": "5",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 cup bread crumbs",
+      "1/4 cup milk",
+      "1 egg",
+      "1 onion, chopped"
+    ],
+    "cooking_method": "To make meatloaf, first preheat the oven to 375 degrees F (190 degrees C). In a large mixing bowl, combine the ground beef, bread crumbs, milk, egg, and chopped onion. Mix until well combined. Place the mixture into a greased loaf pan and bake for 45-50 minutes, or until the meatloaf is fully cooked. Let the meatloaf cool for a few minutes before slicing and serving. Enjoy!",
+    "rating": 4.3
+  },
+  {
+    "_id": "14",
+    "photo_url": "https://i.postimg.cc/3JJNpLT3/Easy-Potato-Salad-Culinary-Hill-1200x800-1.jpg",
+    "recipe_name": "Potato Salad",
+    "chef_id": "5",
+    "ingredients": [
+      "6 potatoes, peeled and chopped",
+      "2 stalks celery, chopped",
+      "1/2 onion, chopped",
+      "1/2 cup mayonnaise",
+      "1 tablespoon mustard"
+    ],
+    "cooking_method": "To make potato salad, first boil the chopped potatoes in a pot of salted water for 10-15 minutes, or until the potatoes are tender. Drain the potatoes and let them cool for a few minutes. In a large mixing bowl, combine the chopped celery, chopped onion, mayonnaise, and mustard. Mix until well combined. Add the cooked potatoes to the bowl and stir until evenly coated. Serve chilled and enjoy!",
+    "rating": 4.1
+  },
+  {
+    "_id": "15",
+    "photo_url": "https://i.postimg.cc/RhwFR800/Chicken-Alfredo-above.jpg",
+    "recipe_name": "Chicken Alfredo",
+    "chef_id": "5",
+    "ingredients": [
+      "1 pound fettuccine pasta",
+      "2 tablespoons butter",
+      "1 pound boneless, skinless chicken breast, cut into cubes",
+      "2 cups heavy cream",
+      "1 cup grated Parmesan cheese"
+    ],
+    "cooking_method": "To make chicken alfredo, first cook the fettuccine according to package instructions. Drain and set aside. In a separate pot, melt the butter over medium heat. Add the cubed chicken to the pot and cook for 5-7 minutes, or until fully cooked. Pour in the heavy cream and grated Parmesan cheese, and stir until the cheese has fully melted and the sauce is smooth. Add the cooked fettuccine to the pot and stir until evenly coated in the sauce. Serve hot and enjoy!",
+    "rating": 4.5
+  },
+  {
+    "_id": "16",
+    "photo_url": "https://i.postimg.cc/d0MJW6zk/Beef-Stew-recipe-1-of-1.jpg",
+    "recipe_name": "Beef Stew",
+    "chef_id": "6",
+    "ingredients": [
+      "2 pounds beef chuck, cut into cubes",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 cups beef broth",
+      "1 cup diced tomatoes"
+    ],
+    "cooking_method": "To make beef stew, first heat some oil in a large pot over medium-high heat. Add the beef cubes to the pot and cook until browned on all sides. Remove the beef from the pot and set aside. Add the chopped onion and minced garlic to the pot and cook for 3-4 minutes, or until the onion is translucent. Add the beef broth and diced tomatoes to the pot, and stir to combine. Return the beef to the pot and bring the mixture to a boil. Reduce the heat to low and let the stew simmer for 2-3 hours, or until the beef is tender. Serve hot and enjoy!",
+    "rating": 4.2
+  },
+  {
+    "_id": "17",
+    "photo_url": "https://i.postimg.cc/WbhjTxVq/418379-best-green-bean-casserole-mfs-108-1-748e6c55722a44039c10f06347f2b2a1.jpg",
+    "recipe_name": "Green Bean Casserole",
+    "chef_id": "6",
+    "ingredients": [
+      "2 cans green beans, drained",
+      "1 can cream of mushroom soup",
+      "1 cup milk",
+      "1/2 cup French fried onions",
+      "1/4 teaspoon black pepper"
+    ],
+    "cooking_method": "To make green bean casserole, first preheat the oven to 350 degrees F (175 degrees C). In a large mixing bowl, combine the drained green beans, cream of mushroom soup, milk, black pepper, and half of the French fried onions. Mix until well combined. Pour the mixture into a greased baking dish and bake for 30-40 minutes, or until the casserole is hot and bubbly. Remove from the oven and top with the remaining French fried onions. Return to the oven and bake for an additional 5 minutes, or until the onions are golden brown. Serve hot and enjoy!",
+    "rating": 4.4
+  },
+  {
+    "_id": "18",
+    "photo_url": "https://i.postimg.cc/SKNb1PgK/Cajun-Jambalaya-19.jpg",
+    "recipe_name": "Cajun Jambalaya",
+    "chef_id": "6",
+    "ingredients": [
+      "1 pound Andouille sausage, sliced",
+      "1 onion, chopped",
+      "1 green bell pepper, chopped",
+      "2 cloves garlic, minced",
+      "1 cup long-grain rice"
+    ],
+    "cooking_method": "To make Cajun jambalaya, first cook the sliced Andouille sausage in a large pot over medium-high heat until browned on all sides. Remove the sausage from the pot and set aside. Add the chopped onion and green bell pepper to the pot and cook for 3-4 minutes, or until the vegetables are tender. Add the minced garlic to the pot and cook for an additional 1-2 minutes. Add the long-grain rice to the pot and stir to combine. Pour in enough water to cover the rice and bring the mixture to a boil. Reduce the heat to low and let the rice simmer for 15-20 minutes, or until fully cooked. Return the sausage to the pot and stir to combine. Serve hot and enjoy!",
+    "rating": 4.7
+  }
+]
