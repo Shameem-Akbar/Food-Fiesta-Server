@@ -47,7 +47,7 @@
   {
     "_id": "4",
     "photo_url": "https://i.postimg.cc/FKS27QC1/mac-and-cheese-featured.jpg",
-    "recipe_name": "Baked Mac and Cheese",
+    "recipe_name": "Baked Mac Cheese",
     "chef_id": "2",
     "ingredients": [
       "8 ounces elbow macaroni",
@@ -92,7 +92,7 @@
   {
     "_id": "7",
     "photo_url": "https://i.postimg.cc/FH5bh5ST/square-1506010321-chicken-noodle-soup-delish-1.jpg",
-    "recipe_name": "Chicken Noodle Soup",
+    "recipe_name": "Noodle Soup",
     "chef_id": "3",
     "ingredients": [
       "8 cups chicken broth",
@@ -168,7 +168,7 @@
   {
     "_id": "12",
     "photo_url": "https://i.postimg.cc/FHHSrrRg/238691-Simple-Macaroni-And-Cheese-mfs-008-7a50b284b67140919a0984093cb4611b.jpg",
-    "recipe_name": "Macaroni and Cheese",
+    "recipe_name": "Macaroni Cheese",
     "chef_id": "4",
     "ingredients": [
       "1 pound elbow macaroni",
@@ -243,7 +243,7 @@
   {
     "_id": "17",
     "photo_url": "https://i.postimg.cc/WbhjTxVq/418379-best-green-bean-casserole-mfs-108-1-748e6c55722a44039c10f06347f2b2a1.jpg",
-    "recipe_name": "Green Bean Casserole",
+    "recipe_name": "Bean Casserole",
     "chef_id": "6",
     "ingredients": [
       "2 cans green beans, drained",
