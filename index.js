@@ -32,7 +32,11 @@ app.get('/recipe/:id', (req, res) => {
     res.send(selectedRecipe);
 })
 
-
+app.get('/chef-recipe/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChefRecipe = recipe.filter(n => n.chef_id == id);
+    res.send(selectedChefRecipe);
+})
 
 app.listen(port, () => {
     console.log(`Food Fiesta API is Running on port:${port}`);
